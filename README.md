@@ -115,5 +115,3 @@ nmap -oN scan.file <target-ip>
 These scans were performed for educational and testing purposes only.
 Do not scan external systems without explicit permission as it may be considered illegal activity.
 
-yaml
-Copy code
